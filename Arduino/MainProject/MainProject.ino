@@ -3,7 +3,7 @@ void setup()
 {
   //InitBillRecive();
   //InitBillPay();
-  InitCoinPay();
+  //InitCoinPay();
   
 }
 
@@ -13,6 +13,6 @@ void loop()
   //CalcRxData();
  //ReciveBill();
  //Paybill(1);
- PayCoin(2);
+ //PayCoin(2);
   
 }
